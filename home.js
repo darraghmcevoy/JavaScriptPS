@@ -1,7 +1,10 @@
 // show the title
 
-let welcome = 'Welcome';
-showMessage(welcome);
+let price = 49.99,
+name = 'Hiking Boots',
+discounted = false;
+
+showMessage(name);
 
 /*
     Detail complex logic...
