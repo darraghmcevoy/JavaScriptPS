@@ -1,10 +1,11 @@
 // show the title
+const price = 40.00;
 
-let price = 49.99,
-name = 'Hiking Boots',
-discounted = false;
+//price = 59.99;
 
-showMessage(name);
+//price = 29.99;
+
+showMessage(price);
 
 /*
     Detail complex logic...
