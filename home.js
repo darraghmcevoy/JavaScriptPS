@@ -1,9 +1,6 @@
 // show the title
-const price = 40.00;
+const price = 20.00;
 
-//price = 59.99;
-
-//price = 29.99;
 
 showMessage(price);
 
