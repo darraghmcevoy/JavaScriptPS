@@ -1,12 +1,4 @@
-// show the title
-const price = 25.00;
-
+let price = 3 + 2 * 2;
 
 showMessage(price);
-
-/*
-    Detail complex logic...
-    Some algorithm...
-
-*/
-//
+console.log(price);
