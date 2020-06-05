@@ -1,4 +1,5 @@
-let price = 3 + 2 * 2;
+let message = 'Hello'; 
+message = message.length;
+showMessage(typeof message);
+console.log(message);
 
-showMessage(price);
-console.log(price);
