@@ -1,5 +1,4 @@
-let message = 'Hello'; 
-message = message.length;
-showMessage(typeof message);
-console.log(message);
-
+let saved = 10;
+saved = null;
+showMessage(saved);
+console.log(saved);
