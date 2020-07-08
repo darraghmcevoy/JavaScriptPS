@@ -1,3 +1,7 @@
-for (let i=0; i < 5; i++) {
-    console.log(i);
+function getSecretCode(value) {
+    let code = value * 42;
+    return code;
 }
+
+showMessage( getSecretCode(2) );
+
