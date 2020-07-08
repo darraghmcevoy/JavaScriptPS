@@ -3,5 +3,6 @@ function getSecretCode(value) {
     return code;
 }
 
-showMessage( getSecretCode(2) );
-console.log ( getSecretCode(2) );
+let SecretCode = getSecretCode(2);
+showMessage( SecretCode );
+
