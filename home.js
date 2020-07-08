@@ -4,4 +4,4 @@ function getSecretCode(value) {
 }
 
 showMessage( getSecretCode(2) );
-
+console.log ( getSecretCode(2) );
