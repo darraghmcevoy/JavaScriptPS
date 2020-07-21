@@ -1,4 +1,5 @@
-const contrainers = 
-document.getElementsByClassName('contrainer');
-contrainers[3].classList.add('d-done');
-console.log(contrainers);
+'use strict';
+
+productId = 1234;
+
+console.log(window.productId);
